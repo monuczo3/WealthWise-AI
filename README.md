@@ -3,6 +3,8 @@
 
 Welcome to **WealthWise**, your intelligent companion for managing personal finances. Built with Python and Streamlit, WealthWise delivers AI-driven insights, expense forecasting, and a comprehensive financial health scoring system to help you achieve your financial goals.
 
+<img width="400" height="300" alt="Screenshot 2025-09-02 000118" src="https://github.com/user-attachments/assets/0b658ad8-e15a-4c0d-b5b5-b8e6f8a9624b" /><img width="400" height="300" alt="Screenshot 2025-09-02 000315" src="https://github.com/user-attachments/assets/cebad540-f833-4398-866d-fdebfbbf3567" />
+
 ---
 
 ## 🌟 Features
